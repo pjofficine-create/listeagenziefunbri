@@ -1,0 +1,1 @@
+# Nessuna dipendenza esterna richiesta (solo librerie standard Python 3).
